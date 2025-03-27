@@ -112,6 +112,31 @@ Experts reviewing this *template* or a user's *adaptation* can use these prompts
     "Assess the remedies (Section 10), compensation (Section 7), and enforcement framework. Propose modifications tailored to [Target Tribe]'s legal environment, court capabilities, available remedies (including traditional ones referenced in tribal code), and judgment enforcement procedures. Evaluate the 'Sovereign Revocation Right' (Section 3) under [Target Tribe]'s law."
     ```
 
+## 🌱 Expanding Protection: Call for Expertise in Other IP Areas
+
+While this template focuses on software licensing, the underlying principles of asserting tribal sovereignty, protecting Traditional Knowledge (TK), and safeguarding Traditional Cultural Expressions (TCEs) are vital across many domains. As highlighted by ongoing international negotiations at the World Intellectual Property Organization (WIPO) Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional Knowledge and Folklore (IGC), there's a critical need for robust legal frameworks protecting Indigenous heritage in diverse forms [[NARF/WIPO](https://narf.org/cases/wipo/)].
+
+We invite **Tribal legal experts, cultural heritage professionals, artisans, knowledge keepers, and community leaders** to contribute their expertise in adapting these principles or developing new templates for areas such as:
+
+*   **Cultural Performances & Expressions:**
+    *   Songs, dances, ceremonies, stories, prayers [[NARF/WIPO](https://narf.org/cases/wipo/)]
+    *   Presentations, workshops, educational materials
+*   **Tangible Cultural Heritage:**
+    *   Art, crafts, jewelry, regalia
+    *   Traditional designs, symbols, motifs
+*   **Traditional Knowledge Systems:**
+    *   Plant and medicinal knowledge, healing practices [[NARF/WIPO](https://narf.org/cases/wipo/)]
+    *   Agricultural techniques, environmental management practices
+    *   Knowledge associated with genetic resources (GRAATK) [[NARF/WIPO](https://narf.org/cases/wipo/)]
+*   **Digital & Archival Materials:**
+    *   Databases of traditional knowledge [[NARF/WIPO](https://narf.org/cases/wipo/)]
+    *   Digitized cultural heritage collections, recordings, photographs
+    *   Language resources
+
+**Goal:** To create a suite of resources and templates that empower Indigenous creators and communities to protect their intellectual and cultural property across all forms of expression, grounded in tribal sovereignty and cultural protocols.
+
+Please contribute by opening an issue tagged `expansion-suggestion` or submitting a pull request with proposed frameworks or adaptations.
+
 ## ❓ Support
 
 *   **Improving this Template:** Use GitHub Issues (tag "legal-review" or "suggestion").
