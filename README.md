@@ -1,13 +1,81 @@
-# 📜 Tribal Sovereignty Software License Template
+# 🌿 Tribal Knowledge & Intellectual Property Protection Framework
 
-This repository provides a comprehensive software license template (`@LICENSE`) incorporating tribal sovereignty protections, Traditional Knowledge (TK) labels, and federal Indian law provisions. Tribal members can use this as a starting point for their own software projects.
+This repository provides a comprehensive set of templates and resources for protecting Traditional Knowledge (TK) and Intellectual Property (IP) of tribal members across various domains. While initially focused on software licensing, it now encompasses broader protections for cultural heritage, traditional practices, and creative works.
 
-## 💡 Quick Start: Using This Template
+## 🌟 Quick Start: Using These Resources
 
-1.  **Get the Template:** Copy the `@LICENSE` file into your project and rename it `LICENSE`.
-2.  **Customize:** Follow the "🛠️ Customizing Your License" section below to replace placeholders and adapt terms.
-3.  **Review:** Ensure mandatory legal and cultural reviews are completed by appropriate tribal authorities (See "⚠️ Critical Legal & Cultural Review").
-4.  **Implement:** Use the finalized `LICENSE` file in your software project.
+1. **Choose Your Template:** Select from our growing collection of protection frameworks:
+   - Software Licensing (`@LICENSE`)
+   - Cultural Performances & Expressions
+   - Traditional Knowledge Systems
+   - Tangible Cultural Heritage
+   - Digital & Archival Materials
+
+2. **Customize:** Follow the "🛠️ Customizing Your Protection Framework" section below to adapt templates to your specific needs.
+
+3. **Review:** Ensure mandatory legal and cultural reviews are completed by appropriate tribal authorities.
+
+4. **Implement:** Use the finalized framework in your project or creative work.
+
+## 🛠️ Customizing Your Protection Framework
+
+Follow this process to adapt our templates for your specific needs:
+
+1. **Identify Your Protection Needs:**
+   - Determine the type of knowledge or creation you're protecting
+   - Consider the appropriate level of access control
+   - Identify relevant cultural protocols
+
+2. **Use Your AI Assistant for Placeholders (Recommended):**
+   - Provide your AI with the template content and your known details
+   - Work through any remaining placeholders with your AI's assistance
+
+3. **⚠️ Critical Legal & Cultural Review (Mandatory):**
+   - Consult with your Tribal Legal Department and Cultural Authorities
+   - Ensure alignment with tribal laws and cultural protocols
+   - Verify enforceability within your tribal jurisdiction
+
+4. **Finalize and Implement:**
+   - Confirm all placeholders are filled
+   - Double-check all references and citations
+   - Implement the framework in your project
+
+## 🌍 Expanding Protection: Comprehensive IP Framework
+
+Our framework now includes protection for various forms of Indigenous knowledge and creation:
+
+### Cultural Performances & Expressions
+- Songs, dances, ceremonies, stories, prayers
+- Presentations, workshops, educational materials
+
+### Traditional Knowledge Systems
+- Plant and medicinal knowledge, healing practices
+- Agricultural techniques, environmental management
+- Knowledge associated with genetic resources
+
+### Tangible Cultural Heritage
+- Art, crafts, jewelry, regalia
+- Traditional designs, symbols, motifs
+
+### Digital & Archival Materials
+- Databases of traditional knowledge
+- Digitized cultural heritage collections
+- Language resources
+
+## 🤝 Contributing to the Framework
+
+We welcome contributions from Tribal legal experts, cultural heritage professionals, and community leaders. Please use the GitHub contribution process:
+
+1. Fork this repository
+2. Create a new branch
+3. Make your changes
+4. Submit a pull request
+
+## ❓ Support & Resources
+
+- For improving these templates: Use GitHub Issues
+- For adapting to your project: Contact your tribal legal department
+- For broader context: Review UNDRIP and WIPO IGC documents
 
 ## 💻 Contributing Changes Back to This Template (Guide for Beginners)
 
@@ -26,44 +94,6 @@ If you want to suggest improvements *to this template repository* itself and are
     *   *Prompt:* `"Guide me on how to create a Pull Request from my '[branch-name]' branch to the main branch of the original repository at [Insert Repository URL Here]. Help me write a clear description."*
 
 *Remember to replace bracketed text like `[filename]` and `[Insert Repository URL Here]`.*
-
-## 🛠️ Customizing Your License (`@LICENSE` file)
-
-Follow this process to adapt the `@LICENSE` template for *your* project:
-
-1.  **Use Your AI Assistant for Placeholders (Recommended First Step):**
-    *   Provide your AI with the `@LICENSE` content and your known details using a prompt like this:
-        ```
-        "I need to customize the provided '@LICENSE' template file. Please replace all placeholders like <|placeholder_name|> using this information:
-        - My Name: [Your Name]
-        - My Indigenous Name (Optional): [Your Indigenous Name]
-        - My Tribal Nation: [Your Tribal Nation Name]
-        - My GitHub Username: [Your GitHub Username]
-        - My Project/Repository Title: [Your Repo Title]
-        - Current Year: [Current Year]
-        - My State: [Your State Name]
-
-        For any remaining placeholders (like <|specific_treaty_...|>, <|tribal_court_name|>, <|interest_rate_percentage|> in Section 7, etc.), please list them clearly and ask me for the specific information needed. Explain what each requires if I'm unsure."
-        ```
-    *   *Follow Up:* Answer the AI's questions to fill in the remaining details.
-
-2.  **⚠️ Critical Legal & Cultural Review (Mandatory):**
-    *   **Consult Experts:** Take the partially filled license to your **Tribal Legal Department** (or qualified Indian law attorney) AND your **Cultural Authorities/Elders**.
-    *   **Legal Verification:** Your legal team MUST review:
-        *   Treaty references (`<|specific_treaty_...|>`) and overall sovereignty assertions (Section 3) for accuracy and applicability to *your* Nation.
-        *   Jurisdictional clauses (`<|tribal_court_name|>`, alternative forums in Section 8, governing law in Section 9).
-        *   Enforcement mechanisms and remedies (Sections 7, 10), including the specific financial figures (`<|interest_rate...|>`, `<|statutory_damages...|>`, etc.). Ensure alignment with *your* tribal code and court capabilities.
-        *   Waivers and immunity statements (Sections 7.6, 12).
-    *   **Cultural Verification:** Your cultural authorities MUST review:
-        *   TK Labels (Section 2) to ensure they accurately reflect *your* community's protocols.
-        *   Prohibited/Permissible Uses (Sections 4, 5) for alignment with cultural values and protocols.
-        *   References to traditional practices or values (e.g., Sections 7.2c, 7.5c, 10e).
-    *   **Coordinate:** Ensure legal and cultural reviews are integrated.
-
-3.  **Final Checks:**
-    *   Confirm all `<|placeholders|>` have been correctly filled or removed.
-    *   Double-check the GitHub URL in the citation (Section 1).
-    *   Rename the file from `@LICENSE` to `LICENSE`.
 
 ## 📌 Placeholder Reference List (in `@LICENSE`)
 
@@ -135,9 +165,4 @@ We invite **Tribal legal experts, cultural heritage professionals, artisans, kno
 
 **Goal:** To create a suite of resources and templates that empower Indigenous creators and communities to protect their intellectual and cultural property across all forms of expression, grounded in tribal sovereignty and cultural protocols.
 
-Please contribute by opening an issue tagged `expansion-suggestion` or submitting a pull request with proposed frameworks or adaptations.
-
-## ❓ Support
-
-*   **Improving this Template:** Use GitHub Issues (tag "legal-review" or "suggestion").
-*   **Adapting for Your Project:** Contact *your* tribal legal dept, cultural heritage office, or local Indigenous legal aid/bar association. Review UNDRIP. 
+Please contribute by opening an issue tagged `expansion-suggestion` or submitting a pull request with proposed frameworks or adaptations. 
